@@ -1,0 +1,1 @@
+export FOX_SETTINGS_ROOT_DIRECTORY=/sdcard1
